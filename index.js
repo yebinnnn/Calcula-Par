@@ -9,7 +9,7 @@ function esPar (n){
 
 // ACA EMPIEZA EL PROGRAMA
 
-numero=parseInt (prompt ());
+numero=parseInt (prompt ("ingrese un valor"));
 if (esPar(numero)){
     alert("Es Par");
 } else {
