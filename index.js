@@ -1,6 +1,5 @@
 function esPar (n){
-   resultado = n%2 == 0;
-   return resultado;
+   return n%2 == 0;
 
 
 }
